@@ -1,0 +1,20 @@
+
+public class BulkDiscount extends DiscountPolicy {
+
+	BulkDiscount(){
+		float minimum;
+		double percent;
+	}
+	
+
+	@Override
+	double computeDiscount(int count, float itemCost) {
+		double discount = 0;
+		if(count >= minimum) {
+			discount = count * itemCost * (percent /100);
+			return discount;
+		}
+		return 0;
+	}
+
+}

@@ -1,0 +1,15 @@
+
+public class BuyNItemsGetOneFree extends DiscountPolicy {
+
+	
+	
+	
+
+
+	@Override
+	double computeDiscount(int count, float itemCost) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

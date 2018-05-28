@@ -1,0 +1,13 @@
+
+public class BuyNItemsGetOneFree extends DiscountPolicy {
+
+	
+	
+	
+	@Override
+	public void computeDiscount() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

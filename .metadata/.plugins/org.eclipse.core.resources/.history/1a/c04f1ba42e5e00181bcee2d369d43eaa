@@ -1,0 +1,20 @@
+import java.util.*;
+
+public class main {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		
+		
+		System.out.print("Please enter number of items");
+		int count = input.nextInt();
+		float itemCost = input.nextFloat();
+		int minimum = input.nextInt();
+		double percent = input.nextDouble();
+		
+		BulkDiscount grab = new BulkDiscount(minimum, percent);
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+
+public class BulkDiscount extends DiscountPolicy {
+
+	
+	
+	@Override
+	void computeDiscount() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

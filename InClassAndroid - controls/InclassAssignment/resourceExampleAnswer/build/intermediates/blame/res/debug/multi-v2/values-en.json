@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Bganekinfo\\Java Class\\Class\\Week8\\InClassAndroid - controls\\InclassAssignment\\resourceExampleAnswer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Bganekinfo\\Java Class\\Class\\Week8\\InClassAndroid - controls\\InclassAssignment\\resourceExampleAnswer\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,3,5,6,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,299,101,193,249,153",
+                        "endColumns": "45,47,51,55,49,39",
+                        "endOffsets": "96,342,148,244,294,188"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,149,201,257,307",
+                        "endColumns": "45,47,51,55,49,39",
+                        "endOffsets": "96,144,196,252,302,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

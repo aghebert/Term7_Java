@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuarterbackRating</string>
+    <string name="action_settings">Settings</string>
+    <string name="Attempts">Attempts</string>
+    <string name="Completions">Completions</string>
+    <string name="Yards">Yards</string>
+    <string name="Interceptions">Interceptions</string>
+    <string name="Touchdowns">Touchdowns</string>
+    <string name="getRating">Get Rating</string>
+    <string name="Rating">Answer</string>
+</resources>
