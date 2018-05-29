@@ -1,0 +1,26 @@
+
+import java.util.*;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+Scanner input = new Scanner(System.in);
+		
+		
+		
+		System.out.print("Please choose an option. ");
+		int count = input.nextInt();
+		System.out.print("Please enter item cost. ");
+		float itemCost = input.nextFloat();
+		System.out.print("Please enter minimum number of items for discount. ");
+		int minimum = input.nextInt();
+		System.out.print("Please enter discount percent. ");
+		double percent = input.nextDouble();
+		System.out.print("Please enter number of items (n) required for 'Buy n, Get One Free'. ");
+		int n = input.nextInt();
+		input.close();
+	}
+
+}
